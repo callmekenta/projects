@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Character Selection.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2 Female.unity
+    guid: 2a75fa06958622c488245bb81ff971bf
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 3 Female.unity
+    guid: 0d5ea0aa82c79044fb2c923f44c1d923
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1 Female.unity
+    guid: 3a79cddd528735e4e91ab48063802e25
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1 Male.unity
+    guid: 61681e11ddf4597438e6ff5c3286063e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1 Zombie.unity
+    guid: 7220876030948a24183bdf10812b6c35
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2 Male.unity
+    guid: 794cc03573ea8e94ca0c605bb2d278ba
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2 Zombie.unity
+    guid: 97c55a9eae7fd3642b2ebeeb9138dcd7
+  - enabled: 1
+    path: Assets/Scenes/Menus/GameOver.unity
+    guid: 501c113aaa242234ea5a8e289fccd922
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 3 Male.unity
+    guid: 3fa8b6ed6f44849478ad5c053f14f02d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 3 Zombie.unity
+    guid: 163304b100d88ef41abb40ceccd64667
+  - enabled: 1
+    path: Assets/Scenes/Menus/Death.unity
+    guid: 0b2c9bb36a2e7db4fa6207f7fc30e067
+  m_configObjects: {}
