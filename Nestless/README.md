@@ -7,7 +7,6 @@ Password:    Banana
 ## Overview
 A mobile application that allows users to track and locate local bird species, and customize a profile that allows the user to track previous sightings, allowing for easier bird watching navigation.
 
-All of the groups have already submitted their project proposals so you should be in the phase of development now. Please note that your project should adhere to the requirements you have committed in your project proposal. You are free to add extra features but missing a requirement might result in loss of marks.
 
 | Group Member Name          | GitHub Username    |
 | :------------------------- |:------------------:|
