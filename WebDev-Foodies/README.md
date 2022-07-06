@@ -1,6 +1,6 @@
 # Major Group Project
 
-Before you submit your project, modify the following table to include everyone's full name and GitHub usernames:
+Contributors:
 
 | Group Member Name          | GitHub Username    |
 | :------------------------- |:------------------:|
